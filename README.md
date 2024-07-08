@@ -14,7 +14,6 @@
 
  RubyGems:
 
-- awesome_print
 - capybara
 - cucumber
 - cuke_modeler
