@@ -89,11 +89,15 @@ RubyGems:
 RubyGems:
 
 - facets
-- httparty
+- graphql
+- puma
 - rack
-- rack-test
+- rack-contrib
+- rackup
 - require_all
 - rspec
 - rubocop
 - rubycritic
 - sinatra
+- sinatra-contrib
+- strings-case
